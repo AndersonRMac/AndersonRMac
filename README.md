@@ -2,6 +2,7 @@
 
 
 - 🔭 Atualmente trabalho como Técnico em Segurança do Trabalho mas buscando novos desafios e mudando para a área de desenvolvimento.
+- Buscando a carreira de back end em java :D
 - 🌱 Estou estudando JAVA para desenvolvimento web
 - 💬 Contate-me no email: anderson.ramosmaciel@gmail.com
 ##
