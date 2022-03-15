@@ -3,7 +3,7 @@
 
 - 🔭 Atualmente buscando entrar na carreira de desenvolvimento back end em java :D
 - 🌱 Estou estudando JAVA para desenvolvimento web
-- 💬 Contate-me no email: anderson.ramosmaciel@gmail.com
+- 💬 Email: anderson.ramosmaciel@gmail.com
 - Estudante de Análise e Desenvolvimento de Sistemas
 ##
 <div>
