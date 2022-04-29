@@ -1,8 +1,8 @@
 ### Olá sou Anderson R Maciel 👋
 
 
-- 🔭 Atualmente buscando entrar na carreira de desenvolvimento back end em java :D
-- 🌱 Estou estudando JAVA para desenvolvimento web
+- 🔭 Atualmente atuando em estágio de desenvolvimento back end em java :D
+- 🌱 Estou estudando JAVA voltado para telemetria.
 - 💬 Email: anderson.ramosmaciel@gmail.com
 - Estudante de Análise e Desenvolvimento de Sistemas
 ##
