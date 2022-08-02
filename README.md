@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente atuando em estágio de desenvolvimento back end em java :D
-- 🌱 Estou estudando JAVA voltado para telemetria e Spring Framework.
+- 🌱 Estou estudando JAVA voltado para telemetria.
 - 💬 Email: anderson.ramosmaciel@gmail.com
 - Estudante de Análise e Desenvolvimento de Sistemas
 ##
