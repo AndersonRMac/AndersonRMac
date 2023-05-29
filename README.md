@@ -1,8 +1,8 @@
 ### Olá sou Anderson R Maciel 👋
 
 
-- 🔭 Atualmente atuando em estágio de desenvolvimento back end em java :D
-- 🌱 Estou estudando Spring Framework e JAVA voltado para telemetria.
+- 🔭 Atualmente atuando no setor de Testes QA na área hospitalar :D
+- 🌱 Estou estudando Java Script e PLSQL.
 - 💬 Email: anderson.ramosmaciel@gmail.com
 - Estudante de Análise e Desenvolvimento de Sistemas
 ##
