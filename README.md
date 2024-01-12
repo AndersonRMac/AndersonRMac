@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente atuando no setor de Testes QA na área hospitalar :D
-- 🌱 Estou estudando Java e PLSQL.
+- 🌱 Estou estudando Java/Spring + Angular e PLSQL.
 - 💬 Email: anderson.ramosmaciel@gmail.com
 - Estudante de Análise e Desenvolvimento de Sistemas
 ##
