@@ -1,8 +1,8 @@
 ### Olá sou Anderson R Maciel 👋
 
 
-- 🔭 Atualmente atuando no setor de Testes QA na área hospitalar :D
-- 🌱 Estou estudando Java/Spring + Angular e PLSQL.
+- 🔭 Atualmente atuando como QA na área hospitalar :D
+- 🌱 Estou estudando Angular e Cypress.
 - 💬 Email: anderson.ramosmaciel@gmail.com
 - Estudante de Análise e Desenvolvimento de Sistemas
 ##
