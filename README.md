@@ -2,7 +2,7 @@
 
 
 - 🔭 Atualmente atuando como QA na área hospitalar :D
-- 🌱 Estou estudando Angular e Cypress.
+- 🌱 Estou estudando React, C# e Cypress.
 - 💬 Email: anderson.ramosmaciel@gmail.com
 - Estudante de Análise e Desenvolvimento de Sistemas
 ##
